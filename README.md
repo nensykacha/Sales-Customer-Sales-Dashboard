@@ -53,19 +53,30 @@ Structured into **1 Main Summary Page, 2 Detail Pages, and 1 dedicated Drillthro
 
 ### 1️⃣ Main Dashboard View
 This is the central executive summary showcasing high-level KPIs like Total Revenue ($844K), Total Orders, and overall Return Rate, alongside regional distribution and trend forecasting.
+
 <img width="593" height="335" alt="Main" src="https://github.com/user-attachments/assets/bafa92b5-319a-40f5-94b1-03d6cc40dd4c" />
 
 
 ### 2️⃣ Advanced Interactive Tooltips (Deep-Dive Analysis)
 Hovering over customer profiles automatically triggers an analytical tooltip overlay. This feature displays granular data such as sub-category sales and total amounts dynamically, providing instant insights without cluttering the canvas.
+
 <img width="589" height="332" alt="Returns" src="https://github.com/user-attachments/assets/df04067e-d42f-4206-b93e-851c35a871ea" />
 
 ### 3️⃣ Sales Details & Matrix View
 A structured matrix sheet incorporating advanced conditional formatting for profit margins, YoY sales growth tracks, and performance categorization based on distinct enterprise metrics.
+
 <img width="591" height="335" alt="Sales" src="https://github.com/user-attachments/assets/e509da00-7a9c-44bd-b956-3cbf495ef2ac" />
 
 
 ### 4️⃣ Mobile-Optimized Layout
 Engineered for on-the-go analytics, the mobile layout restructures visual priority, stacking critical KPI cards and operational revenue statistics seamlessly for handheld screen resolutions.
+
 <img width="338" height="338" alt="Mobile" src="https://github.com/user-attachments/assets/d40fb0ab-9038-483e-9dd8-53a2c81e5599" />
 
+---
+
+---
+
+## 📂 Repository Structure & How to Run
+* `Sales-Customer-Sales-Dashboard.pbix` - The core Power BI project file containing the data model, clean DAX measures, and interactive desktop layouts.
+* `README.md` - Complete project documentation with previews.
